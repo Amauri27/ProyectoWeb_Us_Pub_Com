@@ -1,0 +1,96 @@
+*{
+    font-family: sans-serif;
+}
+#btnVerDatos
+{
+    background-color: #5468d8; 
+    color: white;
+    padding: auto;
+    text-align: center;
+    display: none;
+    font-size: 13px;
+    border-radius: 12px;
+      
+}
+
+.btnCargar
+{
+    background-color: #00a30e;
+    color: aliceblue;
+    padding: auto;
+    text-align: center;
+    border-radius: 12px;
+}
+.btnCerrar
+{
+    background-color: brown;
+    color: cornsilk;
+    padding: auto;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.btnVer
+{
+    background-color: rgb(29, 196, 196);
+    color: rgb(0, 0, 0);
+    padding: auto;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.btnEliminar
+{
+    background-color: rgb(230, 111, 111);
+    color: rgb(0, 0, 0);
+    padding: auto;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.datosUsuario
+{
+    background-color: rgb(211, 195, 255);
+    width: 300px;
+}
+.datosUsuario h3
+{
+    background-color: rgb(255, 255, 255);
+    color: rgb(83, 9, 255);
+    width: 170px;
+    border: 4px solid rgb(2, 0, 128);
+    padding: 7px;
+    margin: 10px 0px ;
+}
+.datosUsuario h5
+{
+    background-color: rgb(168, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 150px;
+    padding: auto;
+    margin: 2px;
+    font-style:oblique ;
+}
+.datosUsuario p
+{
+    color: rgb(0, 0, 0);
+    margin: auto;
+}
+
+.posts
+{
+    background-color: rgb(109, 228, 119);
+    width: 65%;
+    margin: 35px 0px;
+}
+.posts h3
+{
+    text-shadow: 2px 2px greenyellow;
+}
+
+.comentarios
+{
+    background-color: rgb(64, 242, 248);
+    font-size: 11px;
+    border: 2px solid rgba(71, 68, 228, 0.596);
+}
